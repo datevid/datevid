@@ -28,6 +28,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datevid/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://datevid.net/)
 
+## 📝 License
+
+Copyright © 2019 [David León](https://github.com/datevid).
+This project is [MIT](https://github.com/datevid) licensed.
+
+## 🔥 Streak stats
+
+![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)
+
 
 <!---
 datevid/datevid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
