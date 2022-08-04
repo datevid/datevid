@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -38,7 +39,8 @@ This project is [MIT](https://github.com/datevid) licensed.
 
 ![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)
 
-
+## 📊 Github stats
+![Datevid](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=dATEVID&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 <!---
 datevid/datevid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
