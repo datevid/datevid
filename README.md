@@ -5,7 +5,10 @@
   ## About Me 🧒
   
 * ⚡ My name is David León V., I am working as Web Development Associate at Ministerio Público Fiscalía de la Nacion - Perú.
-* ⚡ I’m a full stack developer using Python, Java, Spring Framework.
+* ⚡ I build thing with Python, Java, and PHP
+* ⚡ Currently I’m a full stack developer using Java and Spring Framework
+* ⚡ I love bicycle, running, traveling, and the mountains.
+
 
 ## Tech Stack 
 
