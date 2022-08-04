@@ -30,11 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datevid/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://datevid.net/)
 
-## 📝 License
-
-Copyright © 2019 [David León](https://github.com/datevid).
-This project is [MIT](https://github.com/datevid) licensed.
-
 ## 🔥 Streak stats
 
 <!--![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)-->
@@ -44,8 +39,13 @@ This project is [MIT](https://github.com/datevid) licensed.
 ## 📊 Github stats
 ![Datevid](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=dATEVID&bg_color=1F222F&color=F8D867&line=F85D7F&point=FFFFFF&hide_border=true)
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{datevid}/count.svg)
 
+## 📝 License
 
+Copyright © 2019 [David León](https://github.com/datevid).
+This project is [MIT](https://github.com/datevid) licensed.
 <!---
 datevid/datevid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
