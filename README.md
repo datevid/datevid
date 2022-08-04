@@ -37,7 +37,8 @@ This project is [MIT](https://github.com/datevid) licensed.
 
 ## 🔥 Streak stats
 
-![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)
+<!--![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)-->
+![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&&show_icons=true&theme=radical)
 
 ## 📊 Github stats
 ![Datevid](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=dATEVID&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
