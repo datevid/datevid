@@ -40,6 +40,17 @@
 <!--![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&&show_icons=true&theme=radical)-->
 ![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&show_icons=true&theme=gotham)
 
+## 📊 Github stats
+![Datevid](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Datevid&bg_color=1F222F&color=F8D867&line=F85D7F&point=FFFFFF&hide_border=true)
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{datevid}/count.svg)
+
+## 📝 License
+
+Copyright © 2019 [David León](https://github.com/datevid).
+This project is [MIT](https://github.com/datevid) licensed.
+
 <!---
 datevid/datevid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
