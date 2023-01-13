@@ -41,7 +41,7 @@
 ![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&show_icons=true&theme=gotham)
 
 ## 📊 Github stats
-![Datevid](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Datevid&bg_color=1F222F&color=F8D867&line=F85D7F&point=FFFFFF&hide_border=true)
+
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{datevid}/count.svg)
