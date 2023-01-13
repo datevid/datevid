@@ -36,8 +36,8 @@
 
 ## 🔥 Streak stats
 
-<!--![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)-->
-![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&&show_icons=true&theme=radical)
+![Datevid](https://github-readme-streak-stats.herokuapp.com/?user=Datevid&theme=monokai-metallian&hide_border=true)
+<!--![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&&show_icons=true&theme=radical)-->
 <!--![Datevid](https://github-readme-stats.vercel.app/api?username=Datevid&show_icons=true&theme=gotham)-->
 
 ## 📊 Github stats
